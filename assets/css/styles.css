@@ -155,8 +155,20 @@ header nav ul li a {
 
 /* CONTACT ME STYLES */
 
+.contact-info {
+    margin: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex: 0 0 51.5%;
+}
 
-
+.contact-info h3,
+a {
+    font-size: 1.2em;
+    color: #13285b;
+    text-decoration: none;
+}
 
 /* FOOTER STYLES */
 footer {
