@@ -9,6 +9,7 @@
 /* BODY STYLES */
 body {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #d7dcdb;
 }
 
 /* HEADER STYLES START */
@@ -52,11 +53,31 @@ header nav ul li a {
 }
 
 /* HEADER STYLES END */
+.section-title {
+    font-size: 40px;
+    color: #13285b;
+}
+
+.about-me-content {
+    margin: 0 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
 
 /* ABOUT ME STYLES */
 #about-me {
+    margin-top: 100px;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+#about-me img {
+    height: 200px;
+    width: 200px;
+    max-width: 100%;
+    margin-right: 30px;
 }
 
 /* MY WORK STYLES */
@@ -70,6 +91,8 @@ header nav ul li a {
     display: flex;
     flex-wrap: wrap;
 }
+
+
 
 /* FOOTER STYLES */
 footer {
