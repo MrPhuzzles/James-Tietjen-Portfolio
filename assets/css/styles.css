@@ -88,7 +88,8 @@ header nav ul li a {
 }
 
 .section-content {
-    margin-top: 100px;
+    margin-top: 150px;
+    margin-bottom: 150px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -172,7 +173,16 @@ a {
 
 /* FOOTER STYLES */
 footer {
+    margin-top: 50px;
+    background-color: #3b3b3b;
+    color: #009079;
+    padding: 40px 35px;
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
+    flex-wrap: wrap;
+}
+
+footer h4 {
+    font-size: 30px;
+    margin: 0;
 }
