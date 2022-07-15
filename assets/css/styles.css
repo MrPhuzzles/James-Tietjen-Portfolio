@@ -56,6 +56,26 @@ header nav ul li a {
 }
 
 /* HEADER STYLES END */
+
+.banner {
+    background-image: url(../images/banner.jpg);
+    width: 100%;
+    height: 200px;
+    color: #009079;
+    text-align: end;
+}
+
+.banner h2 {
+    font-size: 20px;
+    padding-top: 100px;
+    margin-right: 5px;
+}
+
+.banner p {
+    margin-right: 15px;
+    font-style: italic;
+}
+
 .section-title h1 {
     font-size: 40px;
     color: #13285b;
