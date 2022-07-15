@@ -1,7 +1,44 @@
-h1 {
-    color: tomato;
+/* Default global styles*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-h2 {
-    color: purple;
+/* BODY STYLES */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* HEADER STYLES START */
+header {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* HEADER STYLES END */
+
+/* ABOUT ME STYLES */
+#about-me {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* MY WORK STYLES */
+#my-work {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* CONTACT ME STYLES */
+#contact-me {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* FOOTER STYLES */
+footer {
+    display: flex;
+    flex-wrap: wrap;
 }
