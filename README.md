@@ -17,7 +17,7 @@ Having said that, this project as mentioned above is an ogoing concept and will 
 * CSS
 
 ## Website
-[My Portfolio] (https://mrphuzzles.github.io/James-Tietjen-Portfolio/).
+After that it was all ready to be deployed [My Portfolio](https://mrphuzzles.github.io/James-Tietjen-Portfolio/). 
 ## Screenshots
 ![Portfolio Screenshot 1](./Screenshots/Portfolio%20screen%20shot.png)
 ![Portfolio Screenshot 2](./Screenshots/Portfolio%20screen%20shot%202.png)
