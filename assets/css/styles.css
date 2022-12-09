@@ -141,8 +141,8 @@ header nav ul li a {
 }
 
 .project img {
-    height: 190px;
-    width: 275px;
+    height: 175px;
+    width: 300px;
     filter: brightness(50%);
 }
 
